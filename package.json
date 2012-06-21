@@ -11,5 +11,9 @@
   },
   "engines": {
       "node": "*"
+  },
+  "component": {
+      "name": "backbone-localstorage",
+      "sourceDirectory": "."
   }
 }
